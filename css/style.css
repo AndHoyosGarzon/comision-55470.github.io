@@ -1,0 +1,11 @@
+h1{
+    background-color: yellow;
+    color: black;
+    font-size: 5rem;
+}
+
+h1:hover{
+    background-color: black;
+    color: yellow;
+    cursor: pointer;
+}
