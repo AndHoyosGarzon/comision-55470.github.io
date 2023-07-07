@@ -19,3 +19,14 @@ h2{
     font-size: 2.5rem;
     background-color: green;
 }
+
+.commit_oneline{
+    background-color: darkred;
+    color: white;
+    font-size: 3rem;
+}
+
+.commit_oneline:hover{
+    background-color: black;
+    color: yellow;
+}
