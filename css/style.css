@@ -9,3 +9,8 @@ h1:hover{
     color: yellow;
     cursor: pointer;
 }
+
+h2{
+    background-color: orangered;
+    color: blue;
+}
